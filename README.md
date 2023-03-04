@@ -56,7 +56,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
    
    <img src="https://i.postimg.cc/fy7JMqXm/Screenshot-39.png" alt="singlepage" />
 
-4. Cart page : 👍 (Hari Singh)
+4. Cart page : 👍 (Shubham Verma)
    - All products that a registerd user added to his cart
     <img src="https://i.postimg.cc/D0C3Qq3R/Screenshot-36.png" alt="cart" />
 
